@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @exert0.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning html and css.
